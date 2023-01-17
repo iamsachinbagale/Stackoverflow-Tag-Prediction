@@ -4,7 +4,7 @@
 `A machine learning model that predicts tags for a given question and body.`
 
 <p align="center">
-  <img src="https://github.com/Ankit152/StackOverflow-Tag-Prediction/blob/main/img/so-logo.jpg" >
+  <img src="https://github.com/iamsachinbagale/StackOverflow-Tag-Prediction/blob/main/img/so-logo.jpg" >
 </p>
 
 
@@ -51,7 +51,7 @@ Our main important features in the dataset are `Title`,`Body` and `Tags`.
 *`This is the countplot of number of tags per question.`*
 
 <p align="center">
-  <img src="https://github.com/Ankit152/StackOverflow-Tag-Prediction/blob/main/img/tagCount.jpg" height=612>
+  <img src="https://github.com/iamsachinbagale/StackOverflow-Tag-Prediction/blob/main/img/tagCount.jpg" height=612>
 </p>
 
 The key take away from the above plot is that most of the question has `2` or `3` tags in them.
@@ -60,7 +60,7 @@ The key take away from the above plot is that most of the question has `2` or `3
 
 *`This is the distribution of number of times the tag appeared in questions.`*
 <p align="center">
-  <img src="https://github.com/Ankit152/StackOverflow-Tag-Prediction/blob/main/img/tagDistribution.jpg" height=612>
+  <img src="https://github.com/iamsachinbagale/StackOverflow-Tag-Prediction/blob/main/img/tagDistribution.jpg" height=612>
 </p>
 
 The key take away from the above plot is that a tag is appearing 5 time in max.
@@ -69,7 +69,7 @@ The key take away from the above plot is that a tag is appearing 5 time in max.
 
 *`This is the wordcloud generated from the tags and it's count.`*
 <p align="center">
-  <img src="https://github.com/Ankit152/StackOverflow-Tag-Prediction/blob/main/img/wordcloud.jpg">
+  <img src="https://github.com/iamsachinbagale/StackOverflow-Tag-Prediction/blob/main/img/wordcloud.jpg">
 </p>
 
 The more frequent tags appears to be bigger in the wordcloud and vice versa.
